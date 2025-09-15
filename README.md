@@ -11,5 +11,5 @@
 
 - Поиск поломанных тотемов в радиусе 10 блоков за последние 10 минут:  
 ```
-/co lookup a:block include::totem_of_undying radius:10 time:10m
+/co lookup action:block include:totem_of_undying radius:10 time:10m
 ```
