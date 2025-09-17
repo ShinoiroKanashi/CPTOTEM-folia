@@ -14,11 +14,11 @@ public class Util {
             if (shooter instanceof Player) {
                 return ((Player) shooter).getName();
             } else if (shooter instanceof Entity) {
-                return ((Entity) shooter).getName();
+                return "#" + ((Entity) shooter).getName().toUpperCase();
             }
         } else if (damager != null) {
-            return damager.getName();
+            return "#" + damager.getName().toUpperCase();
         }
-        return "UNKNOWN";
+        return "#НЕИЗВЕСТНО";
     }
 }
