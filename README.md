@@ -3,7 +3,7 @@
 **CoreProtectTotem** — плагин для Minecraft, расширяющий функционал CoreProtect.  
 Он позволяет логировать действия с **тотемами бессмертия (Totem of Undying)** и видеть, кто их ломал.  
 
-![Пример](https://i.imgur.com/mqCb8Iw.png)  
+![Пример](https://github.com/ShinoiroKanashi/CPTOTEM-folia/blob/main/LOGS%20CPTOTEM.png?raw=true)
 *Пример отображения сломанных тотемов.*
 
 
